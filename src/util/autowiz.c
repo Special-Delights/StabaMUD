@@ -172,7 +172,7 @@ void write_wizlist(FILE * out, int minlev, int maxlev)
 
   fprintf(out,
 "*************************************************************************\n"
-"* The following people have reached immortality on CircleMUD.  They are *\n"
+"* The following people have reached immortality on StabaMUD.   They are *\n"
 "* to be treated with respect and awe.  Occasional prayers to them are   *\n"
 "* advisable.  Annoying them is not recommended.  Stealing from them is  *\n"
 "* punishable by immediate death.                                        *\n"
